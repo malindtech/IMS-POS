@@ -12,7 +12,7 @@ Reporting  Generates instant, actionable reports on sales performance, profit ma
 
 Technology Stack
 
-Frontend: [Your Frontend Framework/Library, e.g., React]
-Backend: [Your Backend Language/Framework, e.g., Node.js (Express)]
-Database: [Your Database, e.g., PostgreSQL]
+Frontend: [?]
+Backend: [?)]
+Database: [?]
 
